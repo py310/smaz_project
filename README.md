@@ -29,7 +29,7 @@ The main Python script orchestrates the entire trading system. It includes funct
 ### Usage
 
 To run the script:
-1. Ensure all necessary configurations are set in `atass_config.ini`.
+1. Ensure all necessary configurations are set in `config.ini`.
 2. Execute the `main()` function with appropriate parameters (`SYMBOL`, `TIMEFRAME`, `WORK_PATH`, `my_id`).
 
 ### Dependencies
@@ -44,7 +44,7 @@ To run the script:
 
 ### Configuration
 
-The project utilizes `atass_config.ini` for configuration settings such as server addresses (`trading_ip`), user IDs (`my_id`), and file directories (`WORK_PATH`).
+The project utilizes `config.ini` for configuration settings such as server addresses (`trading_ip`), user IDs (`my_id`), and file directories (`WORK_PATH`).
 
 ## Future Enhancements
 
