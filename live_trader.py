@@ -31,7 +31,7 @@ warnings.simplefilter("ignore")
 import configparser
 
 config = configparser.ConfigParser()
-config.read("atass_config.ini")
+config.read("config.ini")
 
 ADRESS = config["java_ip"]["trading_ip"]
 #WORK_PATH = config["directories"]["work_directory"]

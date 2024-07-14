@@ -17,7 +17,7 @@ from .utils import *
 # import billiard as multiprocessing
 
 # logging.basicConfig(filename="loggi-3.log", format="%(asctime)s %(name)s: %(message)s")
-# logger = logging.getLogger("ATASS_FE")
+# logger = logging.getLogger("FE")
 # logger.setLevel(logging.INFO)
 
 
