@@ -6,7 +6,7 @@ This project automates trading operations using machine learning models and tech
 
 ## Project Structure
 
-### Executable Script
+### Executable Script live_trader.py
 
 The main Python script orchestrates the entire trading system. It includes functions for:
 
