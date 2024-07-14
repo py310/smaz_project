@@ -1,0 +1,10 @@
+.git/
+*.log
+log.txt
+__pycache__/
+.ipynb_checkpoints/
+utils/__pycache__/
+utils/.ipynb_checkpoints/
+config.ini
+work_dir/
+symbols/
