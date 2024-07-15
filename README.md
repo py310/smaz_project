@@ -33,6 +33,7 @@ By leveraging machine learning models trained with PyCaret and historical data f
 ## Dependencies
 
 [environment.yml](https://github.com/py310/smaz_project/blob/main/environment.yml)
+[More details about setting up the environment](https://github.com/py310/smaz_project/blob/main/md-files/Installation.md)
 
 ## Configuration
 
