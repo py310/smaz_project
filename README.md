@@ -1,5 +1,3 @@
-# Automated Trading System
-
 ## Overview
 
 This project automates trading operations using machine learning models and technical analysis indicators. The main script handles data acquisition, model loading, prediction generation, and trading signal execution based on real-time market data.
@@ -28,11 +26,11 @@ By leveraging machine learning models trained with PyCaret and historical data f
 - [Script - pycaret_pipeline.py](https://github.com/py310/smaz_project/blob/main/md-files/Script%20-%20pycaret_pipeline.py.md)
 - [Script - resetter.py](https://github.com/py310/smaz_project/blob/main/md-files/Script%20-%20resetter.py.md)
 
-### Dependencies
+## Dependencies
 
 [environment.yml](https://github.com/py310/smaz_project/blob/main/environment.yml)
 
-### Configuration
+## Configuration
 
 The project utilizes `config.ini` for configuration settings such as server addresses (`trading_ip`), user IDs (`my_id`), and file directories (`WORK_PATH`).
 
