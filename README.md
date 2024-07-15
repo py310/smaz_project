@@ -4,6 +4,21 @@
 
 This project automates trading operations using machine learning models and technical analysis indicators. The main script handles data acquisition, model loading, prediction generation, and trading signal execution based on real-time market data.
 
+## Challenges and Problem Statement
+
+**The primary challenge of the project lies in:**
+
+1. **Data Quality and Consistency:** Ensuring that historical data from MT5 is accurate, complete, and appropriately processed for model training and decision-making.
+
+2. **Model Accuracy and Adaptability:** Optimizing machine learning models to accurately predict market movements under various market conditions and adapting to changing market dynamics.
+
+3. **Integration and Automation:** Seamlessly integrating the predictive models with the trading platform (MT5) to automate trading decisions while maintaining reliability and security.
+
+## Conclusion
+
+By leveraging machine learning models trained with PyCaret and historical data from MetaTrader 5, the project aims to streamline and enhance trading strategies through automation and data-driven decision-making. Ensuring robustness in data handling, model training, and execution is crucial for achieving consistent and effective automated trading results.
+
+
 ## Project Structure
 - [Installation](https://github.com/py310/smaz_project/blob/main/md-files/Installation.md)
 - [Launch](https://github.com/py310/smaz_project/blob/main/md-files/Launch.md)
