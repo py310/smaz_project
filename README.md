@@ -28,6 +28,7 @@ By leveraging machine learning models trained with PyCaret and historical data f
 
 ## Project Process Diagram
 ![process_diagram](https://github.com/user-attachments/assets/4a3e7a4a-6417-4710-a6b6-1d6eab0a6ca2)
+[More details on how to read a diagram](https://drakonhub.com/)
 
 ## Dependencies
 
