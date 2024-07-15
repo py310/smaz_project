@@ -26,6 +26,9 @@ By leveraging machine learning models trained with PyCaret and historical data f
 - [Script - pycaret_pipeline.py](https://github.com/py310/smaz_project/blob/main/md-files/Script%20-%20pycaret_pipeline.py.md)
 - [Script - resetter.py](https://github.com/py310/smaz_project/blob/main/md-files/Script%20-%20resetter.py.md)
 
+## Project Process Diagram
+![process_diagram](https://github.com/user-attachments/assets/4a3e7a4a-6417-4710-a6b6-1d6eab0a6ca2)
+
 ## Dependencies
 
 [environment.yml](https://github.com/py310/smaz_project/blob/main/environment.yml)
