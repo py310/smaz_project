@@ -42,7 +42,7 @@ Additionally:
 
 ## Running .bat Files
 
-To simplify script execution, download the following three .bat files at the same level where Anaconda is installed:
+To simplify script execution, download the following [three .bat files](https://github.com/py310/smaz_project/tree/main/bat-files) at the same level where Anaconda is installed:
 
 - `run_pycaret.bat`: Launches the trading script.
 - `run_pycaret_resetter.bat`: Executes the script that closes trades and sends the portfolio to the server.
