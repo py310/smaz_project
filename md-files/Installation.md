@@ -48,4 +48,4 @@ To simplify script execution, download the following [three .bat files](https://
 - `run_pycaret_resetter.bat`: Executes the script that closes trades and sends the portfolio to the server.
 - `run_pycaret_pipeline.bat`: Initiates the script that re-trains the models.
 
-These .bat files provide convenient shortcuts for running essential scripts in the ATASS project environment.
+These .bat files provide convenient shortcuts for running essential scripts in the project environment.
