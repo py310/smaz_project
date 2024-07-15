@@ -7,8 +7,8 @@
 
 ## Creating the Environment
 
-1. In the `environment.yml` file, specify the correct prefix (path to Anaconda on your computer) and the environment name. For example, `name: smaz` [here guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
-2. Create the environment from the `environment.yml` file using the command `conda env create -f environment.yml`.
+1. In the [environment.yml](https://github.com/py310/smaz_project/blob/main/environment.yml) file, specify the correct prefix (path to Anaconda on your computer) and the environment name. For example, `name: smaz` [here guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+2. Create the environment from the [environment.yml](https://github.com/py310/smaz_project/blob/main/environment.yml) file using the command `conda env create -f environment.yml`.
 
 ## Project Deployment
 
