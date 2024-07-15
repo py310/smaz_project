@@ -1,0 +1,2 @@
+%windir%\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy ByPass -NoExit -Command "& 'c:\Users\Rublevskiy\anaconda3\shell\condabin\conda-hook.ps1' ; conda activate base ; cd c:\Users\Rublevskiy\smaz_project ; python instant_trader.py"
+pause
